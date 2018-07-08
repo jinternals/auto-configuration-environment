@@ -7,8 +7,8 @@
 	<artifactId>auto-configuration-environment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
-		<module>auto-configuration-environment-starter</module>
-		<module>auto-configuration-environment-demo</module>
+		<module>local-properties-starter</module>
+		<module>local-properties-starter-demo</module>
 	</modules>
 	<packaging>pom</packaging>
 
