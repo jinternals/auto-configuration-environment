@@ -1,0 +1,2 @@
+com/jinternals/logger/processor/LoggerInjectorBeanPostProcessor.class
+com/jinternals/logger/annotation/InjectLogger.class
