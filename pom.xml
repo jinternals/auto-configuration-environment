@@ -9,7 +9,7 @@
 
 	<modules>
 		<module>local-properties-starter</module>
-		<module>local-properties-starter-demo</module>
+		<module>demo</module>
 		<module>logger</module>
         <module>logger-starter</module>
         <module>pinterest-starter</module>
