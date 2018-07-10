@@ -6,12 +6,15 @@
 	<groupId>com.jinternals</groupId>
 	<artifactId>auto-configuration-environment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
 	<modules>
 		<module>local-properties-starter</module>
 		<module>local-properties-starter-demo</module>
 		<module>logger</module>
         <module>logger-starter</module>
+        <module>pinterest-starter</module>
     </modules>
+
 	<packaging>pom</packaging>
 
 	<name>auto-configuration-environment</name>

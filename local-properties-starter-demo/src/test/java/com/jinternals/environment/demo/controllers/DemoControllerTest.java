@@ -26,7 +26,6 @@ public class DemoControllerTest {
     @MockBean
     private DemoController demoController;
 
-
     @Test
     public void shoulInvokeGetDemoAPI()
             throws Exception {

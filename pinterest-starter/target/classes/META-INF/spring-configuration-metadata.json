@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.jinternals.pinterest.configuration.PinterestProperties",
+      "name": "pinterest",
+      "type": "com.jinternals.pinterest.configuration.PinterestProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.jinternals.pinterest.configuration.PinterestProperties",
+      "name": "pinterest.enabled",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.jinternals.pinterest.configuration.PinterestProperties",
+      "name": "pinterest.token",
+      "type": "java.lang.String"
+    }
+  ]
+}
